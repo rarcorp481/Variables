@@ -11,3 +11,17 @@ C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.csproj.CoreComp
 C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.exe
 C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.pdb
 C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.exe.config
+C:\Users\labc112\Desktop\Variables\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\labc112\Desktop\Variables\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\labc112\Desktop\Variables\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\labc112\Desktop\Variables\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\labc112\Desktop\Variables\Variables\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc112\Desktop\Variables\Variables\Variables\obj\Debug\Variables.Formularios.FrmArreglo.resources
+C:\Users\labc112\Desktop\Variables\Variables\Variables\obj\Debug\Variables.Formularios.FrmMatriz.resources
+C:\Users\labc112\Desktop\Variables\Variables\Variables\obj\Debug\Variables.FrmLogin.resources
+C:\Users\labc112\Desktop\Variables\Variables\Variables\obj\Debug\Variables.FrmPrincipal.resources
+C:\Users\labc112\Desktop\Variables\Variables\Variables\obj\Debug\Variables.Properties.Resources.resources
+C:\Users\labc112\Desktop\Variables\Variables\Variables\obj\Debug\Variables.csproj.GenerateResource.cache
+C:\Users\labc112\Desktop\Variables\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\labc112\Desktop\Variables\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\labc112\Desktop\Variables\Variables\Variables\obj\Debug\Variables.pdb
