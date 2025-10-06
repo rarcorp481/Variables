@@ -1,0 +1,13 @@
+C:\Users\rarco\Downloads\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\rarco\Downloads\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\rarco\Downloads\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.Formularios.FrmArreglo.resources
+C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.FrmLogin.resources
+C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.FrmPrincipal.resources
+C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.Properties.Resources.resources
+C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.csproj.GenerateResource.cache
+C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.pdb
+C:\Users\rarco\Downloads\Variables\Variables\obj\Debug\Variables.exe.config
